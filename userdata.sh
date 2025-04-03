@@ -9,4 +9,4 @@ FOLDER="https://raw.githubusercontent.com/angvan53/AWS-projects-001-roman-numera
 wget ${FOLDER}/roman-numerals-converter-app.py
 wget -P templates ${FOLDER}/templates/index.html
 wget -P templates ${FOLDER}/templates/convert.html
-python3 roman-numerals-conventer-app.pyss
+python3 roman-numerals-conventer-app.py
